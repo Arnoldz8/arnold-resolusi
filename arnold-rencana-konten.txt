@@ -3,3 +3,4 @@ Rencana konten membuat aplikasi
   * Framework Javascript
 - Laravel
 - React Native
+- Android Studio
