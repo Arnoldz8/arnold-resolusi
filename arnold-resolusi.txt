@@ -1,2 +1,4 @@
 Resolusi di tahun 2023 ini 
 - Harus bisa menguasai beberapa bahasa pemrograman agar dapat membangun sebuah aplikasi sendiri
+- Membuat aplikasi menggunakan laravel
+- Membuat aplikasi mobile menggunakan React Native
