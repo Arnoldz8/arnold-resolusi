@@ -1,7 +1,8 @@
 Rencana konten membuat aplikasi
 - Javascript
   * Framework Javascript
-    ^ Angular
+    ^ Vue
     ^ React
 - Laravel
 - Android Studio
+- Python
